@@ -3,7 +3,7 @@
 
 ## Issue Description
 
-When running the Certified Claim (AP) report, the following error occurs:
+When error occur, the following error occurs:
 
 ```
 
