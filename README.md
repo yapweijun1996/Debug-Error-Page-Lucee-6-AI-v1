@@ -1,6 +1,4 @@
-Here is a README.md for your GitHub repository describing the bug, the fix, and where to amend the code, written in markdown format:
 
-```markdown
 # Bug Fix: Lucee Variable [VLE] Does Not Exist & Error Output Handling
 
 ## Issue Description
@@ -81,14 +79,3 @@ luceeCatchData=#jsonValue#;
 * If `VLE` variable is still undefined, check upstream code for missing assignment.
 * Adjust `max_no_word` in the snippet for longer/shorter error context as needed.
 * This fix focuses on improving error display and preventing front-end overload with huge raw data.
-
----
-
-For any questions or further issues, please contact [support@globe3.com](mailto:support@globe3.com).
-
-```
-
----
-
-If you want, I can help you generate a full minimal example repo or explain how to deploy this fix step-by-step!
-```
